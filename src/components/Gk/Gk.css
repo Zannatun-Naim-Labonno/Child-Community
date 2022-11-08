@@ -1,0 +1,97 @@
+*{margin:20; padding:20;}
+.pp{
+    position: absolute;
+width: 350px;
+height: 75px;
+left: 500px;
+top: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 42px;
+
+color: hsla(54, 97%, 59%, 0.667);
+}
+.frem1{
+    position: relative;
+width: 1300px;
+height: 932px;
+
+background: #857379;
+}
+
+.tip{
+    position: absolute;
+    width: 355px;
+height: 264.6px;
+left: 430px;
+top: 30px;
+
+
+}
+.qus{
+    position: absolute;
+width: 384px;
+height: 34px;
+left: 41px;
+top: 184px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+}
+.Ans{
+    position: absolute;
+width: 128px;
+height: 24px;
+left: 41px;
+top: 218px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+
+color: hsla(122, 81%, 51%, 0.961);
+
+}
+.ns{
+    position: absolute;
+width: 128px;
+height: 24px;
+left: 41px;
+top: 320px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+color: hsla(122, 81%, 51%, 0.961);
+
+
+}
+.us{
+    position: absolute;
+width: 384px;
+height: 34px;
+left: 41px;
+top: 286px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+
+}

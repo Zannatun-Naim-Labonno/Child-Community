@@ -1,0 +1,304 @@
+*{
+    margin:20; padding:20;
+}
+.cpp{
+    position: absolute;
+width: 176px;
+height: 42px;
+left: 86px;
+top: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+}
+
+.sip{
+    position: absolute;
+width: 55px;
+height: 64.6px;
+left: 3px;
+top: 14px;
+
+
+}
+.frem{
+    position: relative;
+width: 444px;
+height: 932px;
+
+background: #0E162D;
+}
+
+.first{
+    position: absolute;
+    width: 171px;
+    height: 35px;
+    left: 129px;
+    top: 10px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 25px;
+    
+    color: #FFFFFF;
+    
+}
+.kip{
+    position: absolute;
+width: 404px;
+height: 241px;
+left: 126px;
+top: 560px;
+
+
+border-radius: 131.5px;
+
+
+border-radius: 300px;
+}
+.hem{
+    position: absolute;
+width: 40px;
+height: 37.38px;
+left: -75px;
+top: 118px;
+
+}
+
+.em{
+    position: absolute;
+width: 40px;
+height: 37.87px;
+left: -75px;
+top: 172px;
+
+}
+
+.m{
+    position: absolute;
+width: 40px;
+height: 38.95px;
+left: -75px;
+top: 222px;
+}
+
+.im{
+    position: absolute;
+width: 40px;
+height: 40px;
+left: -75px;
+top: 272px;
+
+}
+.ck{
+    position: absolute;
+width: 40px;
+height: 40px;
+left: -75px;
+top: 323px;
+}
+.mv{
+    position: absolute;
+width: 40px;
+height: 40px;
+left: -75px;
+top: 375px;
+}
+
+.gm{
+    position: absolute;
+width: 40px;
+height: 40px;
+left: -75px;
+top: 430px;
+}
+.wm{
+    position: absolute;
+width: 40px;
+height: 40px;
+left: -75px;
+top: 478px;
+}
+
+.lg{
+    position: absolute;
+width: 40px;
+height: 40px;
+left: 15px;
+top: 822px;
+}
+
+.btno{
+    position: absolute;
+width: 444px;
+height: 53px;
+left: -130px;
+top: 112px;
+
+background: rgba(60, 61, 66, 0.67);
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 35px;
+    
+    color: #FFFFFF;
+    
+
+}
+.btno2{
+    position: absolute;
+    width: 444px;
+    height: 53px;
+    left: -130px;
+top: 165px;
+background: rgba(60, 61, 66, 0.67);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 35px;
+
+color: #FFFFFF;
+    
+}
+
+.btno3{
+    position: absolute;
+    width: 444px;
+    height: 53px;
+    left: -130px;
+top: 215px;
+background: rgba(60, 61, 66, 0.67);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 35px;
+
+color: #FFFFFF;
+    
+}
+
+
+.btno4{
+    position: absolute;
+    width: 444px;
+    height: 53px;
+    left: -130px;
+    top: 265px;
+background: rgba(60, 61, 66, 0.67);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 35px;
+
+color: #FFFFFF;
+    
+}
+
+.btno5{
+    position: absolute;
+    width: 444px;
+    height: 53px;
+    left: -130px;
+    top: 317px;
+background: rgba(60, 61, 66, 0.67);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 35px;
+
+color: #FFFFFF;
+    
+}
+
+
+.btno6{
+    position: absolute;
+    width: 444px;
+    height: 53px;
+    left: -130px;
+    top: 369px;
+background: rgba(60, 61, 66, 0.67);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 35px;
+
+color: #FFFFFF;
+    
+}
+
+.btno7{
+    position: absolute;
+    width: 444px;
+    height: 53px;
+    left: -130px;
+    top: 422px;
+background: rgba(60, 61, 66, 0.67);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 35px;
+
+color: #FFFFFF;
+    
+}
+.btno9{
+    position: absolute;
+    width: 444px;
+    height: 53px;
+    left: -130px;
+    top: 474px;
+background: rgba(60, 61, 66, 0.67);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 35px;
+
+color: #FFFFFF;
+
+}
+
+.btno8{
+    position: absolute;
+width: 205px;
+height: 60px;
+left: 15px;
+top: 822px;
+
+background: #2D303B;
+border-radius: 91px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 35px;
+
+color: #FFFFFF;
+
+}
+
+
+

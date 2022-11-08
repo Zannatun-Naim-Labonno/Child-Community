@@ -1,0 +1,134 @@
+.Photo{
+    position: relative;
+width: 1500px;
+height: 975px;
+
+background: rgba(255, 137, 145, 0.345);
+}
+.pg{
+    position: absolute;
+width: 450px;
+height: 54px;
+left: 585px;
+top: 46px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 55px;
+line-height: 56px;
+
+color: #56AABC;
+
+}
+.pp1{
+    position: absolute;
+width: 336px;
+height: 267px;
+left: 66px;
+top: 142px;
+
+
+}
+.pp2{
+    position: absolute;
+    width: 336px;
+    height: 267px;
+    left: 485px;
+    top: 142px;
+
+}
+
+.pp3{
+    position: absolute;
+    width: 336px;
+    height: 267px;
+    left: 904px;
+    top: 142px;
+
+    
+
+}
+.pp4{
+    position: absolute;
+    width: 336px;
+    height: 267px;
+    left: 66px;
+    top: 538px;
+    
+}
+
+.pp5{
+    position: absolute;
+width: 336px;
+height: 267px;
+left: 499px;
+top: 538px;
+}
+
+.pp6{
+    position: absolute;
+width: 313px;
+height: 270px;
+top: 538px;
+left: 904px;
+
+}
+
+.sw{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #752563;
+
+}
+
+.w1{
+    position: absolute;
+width: 200px;
+height: 60px;
+left: 138px;
+top: 430px;
+
+}
+
+.w2{
+    position: absolute;
+width: 200px;
+height: 60px;
+left: 553px;
+top: 430px;
+}
+
+.w3{
+    position: absolute;
+width: 240px;
+height: 95px;
+left: 955px;
+top: 430px;
+}
+
+.w4{
+    position: absolute;
+width: 330px;
+height: 119px;
+left: 89px;
+top: 836px;
+}
+.w5{
+    position: absolute;
+width: 240px;
+height: 60px;
+left: 534px;
+top: 836px;
+}
+.w6{
+    position: absolute;
+width: 183px;
+height: 56px;
+left: 950px;
+top: 830px;
+}

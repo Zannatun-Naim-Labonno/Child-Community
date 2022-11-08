@@ -1,0 +1,115 @@
+*{margin:100; padding:100;}
+.me{
+    position:  relative;
+width: 428px;
+height: 880px;
+
+background: #dad5d5;
+}
+
+.them{
+    position: absolute;
+    width: 433px;
+    height: 268px;
+    left: -5px;
+    top: 211px;
+    
+    
+    border-radius: 29px;
+}
+.cool{
+    position: absolute;
+width: 288px;
+height: 63px;
+left: 68px;
+top: 605px;
+
+
+background: #b6b5b5;
+}
+.you{
+    position: absolute;
+    left: 10px;
+right: 10px;
+top: 5px;
+bottom: 29.16%;
+
+}
+.ren{
+    position: absolute;
+    width: 182px;
+    height: 27px;
+    left: 68px;
+    top: 15px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+.poor{
+    position: absolute;
+width: 288px;
+height: 61px;
+left: 68px;
+top: 698px;
+
+background: #b6b5b5;
+}
+.rich{
+    position: absolute;
+left: 10px;
+right: 10px;
+top: 15px;
+bottom: 29.16%;
+}
+.op{
+    position: absolute;
+width: 176px;
+height: 28px;
+left: 68px;
+top: 15px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+.lp{
+    position: absolute;
+width: 309px;
+height: 53px;
+left: 19px;
+top: 32px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #456787;
+
+}
+.btn{
+    position: absolute;
+    width: 182px;
+    height: 37px;
+    left: 10px;
+    top: 0px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+
+}
